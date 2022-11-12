@@ -1,0 +1,15 @@
+.h1{
+    font-size: xx-large;
+    font-weight: bolder;
+    box-shadow: 10px 10px 10px black;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    color: red;
+}
+    canvas{
+        box-shadow: 10px 10px 10px black;
+        padding: auto;
+        margin: 3px;
+        border: 1px;
+    }
